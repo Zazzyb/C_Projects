@@ -1,1 +1,1 @@
-C project for testing C libraries
+C projects for testing C libraries
